@@ -1,0 +1,37 @@
+In this project project we can :-
+    -Register user
+    -Signin User
+    -Update User
+    -Delete User
+    -Signout User
+
+    -Jwt web tokens for authentication
+    -bcrypt for password hashing
+    -use mongodb database
+
+How to start The project
+
+Client  =  npm run dev 
+
+api  =  nodemon api/index.js
+
+
+.env file need to be created
+
+MONGO = 'mongodb+srv://**************:<PASSWORD>.h5rpwhg.mongodb.net/mern-stack?retryWrites=true&w=majority'
+JWT_SECRET ='Secretkey'
+
+
+for rest of packages
+npm i     for client inside client folder         ......\React\Mernstack\client> npm i
+
+npm i     in the main folder in order to install   .......\React\Mernstack> npm i
+
+
+
+NOTES :-
+
+The hosted link has some error due to this hosting platform but if u run it locally it runs perfectly.
+the .env file should be created in the main file.
+
+Thank you for your time
