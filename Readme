@@ -12,8 +12,10 @@ In this project project we can :-
 How to start The project
 
 Client  =  npm run dev 
+.....\React\Mernstack\client> npm run dev 
 
 api  =  nodemon api/index.js
+.....\React\Mernstack> nodemon api/index.js
 
 
 .env file need to be created
